@@ -1,5 +1,2 @@
 # 大三上学期深度学习实验
-
-```python
-print("hello deep learning")
-```
+~~在疯狂摆烂的路上一去不复返~~
